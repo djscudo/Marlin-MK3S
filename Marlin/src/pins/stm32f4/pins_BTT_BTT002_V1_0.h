@@ -29,7 +29,7 @@
 
 #define BOARD_INFO_NAME "BTT BTT002 V1.0"
 
-//#define MK3_FAN_PINS
+#define MK3_FAN_PINS
 
 #define USES_DIAG_PINS
 
